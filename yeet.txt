@@ -1,0 +1,27 @@
+<center>
+  <h3 class="btn-primary heading">Real Time Image Identification App
+    <hr>
+    <center>
+      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 heading_div">
+        We are using Mobilenet as a Model  
+        <br>
+          <div class="btn heading_div2">
+          Mobilenet model is trained on 
+          <br>
+          </div> 
+        </div>
+    </center>
+    <br>
+  </h3>
+  <br><br>
+  
+  <p class="btn btn-success result_para_tag">Object : 
+    <span id="object_name"></span> 
+  </p>
+  
+  <br><br>
+  <p class="btn btn-success result_para_tag">Accuracy : 
+    <span id="accuracy_name"></span> 
+  </p>
+
+</center>
